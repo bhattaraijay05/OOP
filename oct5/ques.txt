@@ -1,0 +1,5 @@
+
+Class Stud with suitable attributes, ctors, functions. Create an object P1 (ctor) to exhibit usage of class [Read is replaced with ctor, Disp functions]. Create an object  P2 to exhibit usage of class. [Read, Disp functions] = PersonCtor.cpp
+
+
+Class Stud with suitable attributes, functions, hold an array attribute within class [3 bank accounts]. Create an array of objects [3 People] to exhibit usage of class. [Read, Disp functions] = PersonArrayObj.cpp

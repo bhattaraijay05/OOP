@@ -1,0 +1,7 @@
+Class Dist : feet, inches. Create 2 classes D1, D2. 
+MF : add D1+D2 = d3
+       Disp : show d3, d1, d2 
+
+
+Create a class book with suitable attributes and MF.
+Raise 3 constructors. Disp suitable information
