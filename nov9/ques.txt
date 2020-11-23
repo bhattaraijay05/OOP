@@ -1,0 +1,1 @@
+Create a class location which had longitude and latitude. Prepare operator overloading functions for prefix operator. Add two objects and display details.

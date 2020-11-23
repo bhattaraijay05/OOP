@@ -1,0 +1,2 @@
+Write a class by name prefix to hold attributes i,j,k each of them are of different datatype. Create a class constructor to initialize these values
+*attibutes

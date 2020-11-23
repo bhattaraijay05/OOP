@@ -1,0 +1,2 @@
+1. Prepare class with adding marks of two students. receive object as a parameter
+2. Prepare class with adding marks of two students. return object as a datatype.
